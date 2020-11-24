@@ -1,3 +1,4 @@
+"Robin Boulet"
 def selectMin(list):
     var=list|[0]
     for i in list:
